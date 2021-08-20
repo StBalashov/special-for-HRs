@@ -1,2 +1,2 @@
 # special-for-HRs
-The project I am really proud of
+** Basically, kvintessencia of my knowledge in programming 🖤 **
