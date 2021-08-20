@@ -1,0 +1,7 @@
+program HelloWorld;
+
+var
+    Unused: int;
+bеgin
+    writeln('Hello, World!');
+еnd.
